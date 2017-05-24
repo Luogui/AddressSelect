@@ -7,8 +7,8 @@ package com.example.luogui.addressselectdemo;
  */
 
 public class Address {
-    int addressId;
-    String addressName;
+    private int addressId;
+    private String addressName;
 
     public Address(int addressId, String addressName) {
         this.addressId = addressId;

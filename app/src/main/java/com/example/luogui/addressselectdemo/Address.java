@@ -9,6 +9,7 @@ package com.example.luogui.addressselectdemo;
 public class Address {
     private int addressId;
     private String addressName;
+    String b;
 
     public Address(int addressId, String addressName) {
         this.addressId = addressId;
